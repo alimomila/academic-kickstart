@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "École de Technologie Supérieure (ÉTS)", url = "" }, { name = "Research Group in Integrated and Sustainable Construction (GRIDD)", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Ali_Motamedi4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
   email = "test@example.org"
